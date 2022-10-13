@@ -1,5 +1,7 @@
 # OC-DS-P2-Analyser-des-donnees-de-systemes-educatifs
-Formation OpenClassrooms - Parcours data scientist - Projet n°2 - Analysez des données de systèmes éducatifs
+Formation OpenClassrooms - Parcours data scientist - Projet n°2 - Analysez des données de systèmes éducatifs - 60 h
+
+
 Vous êtes Data Scientist dans une **start-up de la EdTech**, nommée **academy**, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.  
 Mission :  A partir des données sur l'éducation de la Banque mondiale, réaliser une pré-analyse exploratoire, pour déterminer si ces données permettent :
 
